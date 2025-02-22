@@ -33,8 +33,12 @@
     Before diving into Multithreading, ensure you're comfortable with the following concepts:
 <ul>
     <li>Java Basics</li>
-    <li>Exception Handling</li>
-    <li>Collection Framework</li>
+    <li><a href="https://youtu.be/N6JikpffwO4"
+        target="_blank">Exception Handling</a></li>
+    <li><a href="https://youtu.be/_ii9lqr0IZw"
+        target="_blank">Generics</a></li>
+    <li><a href="https://youtu.be/ZYPM-i-pRP4"
+        target="_blank">Collection Framework</a></li>
 </ul>
 You can learn these topics from my YouTube channel through dedicated playlists.
 </p>
