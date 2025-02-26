@@ -32,7 +32,8 @@
 <p align="justify">
     Before diving into Multithreading, ensure you're comfortable with the following concepts:
 <ul>
-    <li>Java Basics</li>
+    <li><a href="https://abhishekvermaa10.github.io/Java Basics"
+        target="_blank">Java Basics</a></li>
     <li><a href="https://youtu.be/N6JikpffwO4"
         target="_blank">Exception Handling</a></li>
     <li><a href="https://youtu.be/_ii9lqr0IZw"
